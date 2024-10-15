@@ -1,0 +1,1076 @@
+[
+    {
+        "author_id": "7d1f6ebb-0843-42b5-9085-0bb6a276d6ea",
+        "user_id": "pwilson",
+        "total_toxic_score": 49.44341778755188,
+        "num_comments": 17,
+        "toxic_score": 2.9084363404442284,
+        "flag": true,
+        "category_scores": {
+            "toxic": 0.4703265393481535,
+            "severe_toxic": 0.47650716760579276,
+            "obscene": 0.48303798892918753,
+            "threat": 0.5061552471974317,
+            "insult": 0.4887344819657943,
+            "identity_hate": 0.48367491890402403
+        },
+        "comments": [
+            {
+                "comment_id": "cee68f90-7ffb-4b55-8f09-ba9ef7938657",
+                "content": "Why are foreigners claiming primary residence benefits allowed to pass on the honour system?\n\nCan a foreigner with temporary Canadian status claim a property in Canada as a principle residence?\n\nWhy does a foreigner with minimum 35% down payment get a mortgage from a Canadian financial institution without having to verify income? Are money laundering fears pass\u00e9?",
+                "categories": {
+                    "toxic": 0.469565749168396,
+                    "severe_toxic": 0.4866001009941101,
+                    "obscene": 0.4854445457458496,
+                    "threat": 0.5018858313560486,
+                    "insult": 0.48725125193595886,
+                    "identity_hate": 0.4844669997692108
+                }
+            },
+            {
+                "comment_id": "c6c42227-5146-42e3-8955-fad3ae2a9fb6",
+                "content": "The one in Waikiki is a disaster. Went there once and will never go again. Asked for well-done and the filet mignon was almost raw. Told the waitress to have the cook try again and do not give us the same piece of meat back since, once it's cut, all the juices come out and the steak is dry.\nShe fought with us for twenty minutes and refused to do it. I could go on with all the details but you get the point. This place is only for tourists who won't be coming back to the islands since it's doubtful they ever get repeat customers. Stay away!!!",
+                "categories": {
+                    "toxic": 0.478789359331131,
+                    "severe_toxic": 0.4772566258907318,
+                    "obscene": 0.47523927688598633,
+                    "threat": 0.5026667714118958,
+                    "insult": 0.4852398931980133,
+                    "identity_hate": 0.47546252608299255
+                }
+            },
+            {
+                "comment_id": "562b3210-1a1f-4ac4-9f0b-8cd9e5ba2bcb",
+                "content": "Resigning is a positive career move for Spicer, but I do not know how he can ever honestly explain why he chose to work for such a rapacious person.",
+                "categories": {
+                    "toxic": 0.47142985463142395,
+                    "severe_toxic": 0.48209965229034424,
+                    "obscene": 0.4817461371421814,
+                    "threat": 0.5038099884986877,
+                    "insult": 0.489587664604187,
+                    "identity_hate": 0.4847185015678406
+                }
+            },
+            {
+                "comment_id": "8f59f432-ee9f-44da-a607-d183c6b69f1a",
+                "content": "An 18 year payback is pretty crappy. The units will be worn out by then.",
+                "categories": {
+                    "toxic": 0.46458181738853455,
+                    "severe_toxic": 0.47775137424468994,
+                    "obscene": 0.4858543574810028,
+                    "threat": 0.497150182723999,
+                    "insult": 0.48715949058532715,
+                    "identity_hate": 0.48884889483451843
+                }
+            },
+            {
+                "comment_id": "af4e0416-3ef0-4cb5-8711-0b8e0614db07",
+                "content": "Is this going to be the Globe and Mail versus the police services of Canada ?",
+                "categories": {
+                    "toxic": 0.46899256110191345,
+                    "severe_toxic": 0.4774883985519409,
+                    "obscene": 0.47508537769317627,
+                    "threat": 0.5002611875534058,
+                    "insult": 0.49110445380210876,
+                    "identity_hate": 0.48486003279685974
+                }
+            },
+            {
+                "comment_id": "28661d05-fad5-467d-a493-82095bb044a7",
+                "content": "Dehumanizing one's opponents has always been an important element o tyranny.\n\nI'll admit to some surprise that an academic is not calling for better education in rhetoric and argument analysis in high-schools; but then it appears that like so many others, he has been panicked by a pathetically small gathering of violent wing-nuts in Charlottesville.",
+                "categories": {
+                    "toxic": 0.47014787793159485,
+                    "severe_toxic": 0.48756587505340576,
+                    "obscene": 0.4814143776893616,
+                    "threat": 0.5115545988082886,
+                    "insult": 0.48806411027908325,
+                    "identity_hate": 0.4814126789569855
+                }
+            },
+            {
+                "comment_id": "0c644750-0397-4f32-8224-3380422cac68",
+                "content": "I was a football player and fan for 61 years. I'm done with it and I'm not going back. The true color of the players and league are on full display. Let them play in cuba. God bless America and all is greatness.",
+                "categories": {
+                    "toxic": 0.47657594084739685,
+                    "severe_toxic": 0.47774848341941833,
+                    "obscene": 0.48930445313453674,
+                    "threat": 0.5009699463844299,
+                    "insult": 0.4908098578453064,
+                    "identity_hate": 0.4904267191886902
+                }
+            },
+            {
+                "comment_id": "68edd77a-17ea-4fe4-8f00-0488ba98519c",
+                "content": "You don't want them in your base? You wouldn't be in power without their support. Maybe you people should have thought this through before you decided and committed to collude with deplorable oligarchs, criminals, psychopaths, fascists and neo-Nazis, and mil-spec PsyOps operators like Mercer's Cambridge Analytica in a conspiracy to brainwash and mislead like pied pipers so many child-like men in this brazen attack upon and subversion of our liberal democracy. You're part of this, Gardner. Every Republican and every Neo-Liberal operator is a part of this corruption. (note: I -will- continue reposting this ALL DAY LONG and expand my efforts if someone wrongfully censors this a second time. Go ahead, make my day.)",
+                "categories": {
+                    "toxic": 0.4693334102630615,
+                    "severe_toxic": 0.48336175084114075,
+                    "obscene": 0.47677499055862427,
+                    "threat": 0.49602147936820984,
+                    "insult": 0.4855633080005646,
+                    "identity_hate": 0.47629109025001526
+                }
+            },
+            {
+                "comment_id": "f806cc9e-0d73-4764-a4bc-8f6b2af3db9b",
+                "content": "The legislatures of those states, and of Massachusetts, too, have been under Democratic control for more than half-a-century.\n\nThe Democrats own the problems of fiscal mismanagement.  Their Republican governors can only nibble around the edges and use their vetos.  But even with veto power, as seen recently in Illinois, the legislatures just override the Republican governors' efforts to insert some sanity in the financial affairs.",
+                "categories": {
+                    "toxic": 0.4681210219860077,
+                    "severe_toxic": 0.4717658460140228,
+                    "obscene": 0.4967804551124573,
+                    "threat": 0.5154311656951904,
+                    "insult": 0.48883578181266785,
+                    "identity_hate": 0.49082380533218384
+                }
+            },
+            {
+                "comment_id": "bc6ab15e-244c-4bdc-b448-a341987ce459",
+                "content": "Critical difference - all those other US Presidents where somewhere on the scale of rational predictability, and had their cabinet on board.\n\n1. Don't count on the chain of command, even trained military officers who only know how to obey orders, from following through on everything Trump might order.\n\n2. There is already indication, that most senior people in the US government, will know when to stop before pushing a button.",
+                "categories": {
+                    "toxic": 0.4638785421848297,
+                    "severe_toxic": 0.4781458377838135,
+                    "obscene": 0.48671120405197144,
+                    "threat": 0.5116252303123474,
+                    "insult": 0.4882405400276184,
+                    "identity_hate": 0.4829137623310089
+                }
+            },
+            {
+                "comment_id": "9e9c8a0f-9f38-4ff0-ae6c-6f797774546d",
+                "content": "R&R, VA claims are handled on an individual basis.  VA claims are based on a disability percentage awarded.  The highest percentage award is at the full percentage. Subsequent and lower disabilities are awarded at a fraction of the disability percentage.",
+                "categories": {
+                    "toxic": 0.47469764947891235,
+                    "severe_toxic": 0.46681201457977295,
+                    "obscene": 0.5084928274154663,
+                    "threat": 0.5071855783462524,
+                    "insult": 0.4885859191417694,
+                    "identity_hate": 0.4980875253677368
+                }
+            },
+            {
+                "comment_id": "4e8f98f3-fe6d-4f9f-a975-b8c11e56ccc7",
+                "content": "Not only is he an insipid, smarmy, narcissistic con man, he has now displayed a complete lack of spinal fortitude.\n\nWhat he said originally was absolutely correct, if politically unwise.  Eventually (sooner rather than later) cleaner, alternate sources of energy, particular electricity, will overtake and render redundant the extraction and conversion of bitumen. \n\nWhen the vise-like grip of the petroleum industry on government policy and media manipulation has been loosened and then broken, we will see such things as liquid thorium nuclear reactors (among others) coming onstream in abundance.",
+                "categories": {
+                    "toxic": 0.4798465371131897,
+                    "severe_toxic": 0.4818848967552185,
+                    "obscene": 0.4763796925544739,
+                    "threat": 0.5018611550331116,
+                    "insult": 0.48965221643447876,
+                    "identity_hate": 0.47310319542884827
+                }
+            },
+            {
+                "comment_id": "9217c4ea-e00f-4a04-a0b8-58105330ac44",
+                "content": "Funny..\n\nTalking about Public Sector being affected.. and ignoring the cost to business entirely.",
+                "categories": {
+                    "toxic": 0.46340176463127136,
+                    "severe_toxic": 0.4711803197860718,
+                    "obscene": 0.4779162108898163,
+                    "threat": 0.5088870525360107,
+                    "insult": 0.48436954617500305,
+                    "identity_hate": 0.4734112620353699
+                }
+            },
+            {
+                "comment_id": "20969ee2-20d9-4a9f-822f-c5824a4a4ee0",
+                "content": "Why has nobody in western media mentioned that Saudi Arabia has room to accommodate a million refugees in an air conditioned tent city outside of Mecca, used for pilgrimage?  It would save  Germany a lot of grief if refugees from Islamic horrors  had gone there. Or is Wahhabi Saudi Arabia better than us and need not dirty it's hands with Muslim refugees it helped create?",
+                "categories": {
+                    "toxic": 0.4680140018463135,
+                    "severe_toxic": 0.47211822867393494,
+                    "obscene": 0.4730237126350403,
+                    "threat": 0.5028581619262695,
+                    "insult": 0.49584972858428955,
+                    "identity_hate": 0.4823349416255951
+                }
+            },
+            {
+                "comment_id": "9d714ecd-1095-4ae8-855a-979310ed1a45",
+                "content": "Oh so very sad.  Miracles do happen.",
+                "categories": {
+                    "toxic": 0.4698837399482727,
+                    "severe_toxic": 0.4644112288951874,
+                    "obscene": 0.4734921157360077,
+                    "threat": 0.5076814293861389,
+                    "insult": 0.4875972867012024,
+                    "identity_hate": 0.4795806407928467
+                }
+            },
+            {
+                "comment_id": "a0a987d8-57e9-49e3-a4c0-f43fa74bebc4",
+                "content": "RR:  Please cite the reference, other than your opinion, that \"90 percent of our states population care in the least.....\". PS:  Don't waste you time.  There is no cite other than your mean spirited opinion.",
+                "categories": {
+                    "toxic": 0.46691012382507324,
+                    "severe_toxic": 0.47904205322265625,
+                    "obscene": 0.49601876735687256,
+                    "threat": 0.518829882144928,
+                    "insult": 0.4809006154537201,
+                    "identity_hate": 0.49707648158073425
+                }
+            },
+            {
+                "comment_id": "972dd4bf-fbba-4c7f-92ae-4ce4cf2ce3ef",
+                "content": "What a novel idea... let Israel decide what Israel wants.... why didn't someone think of this sooner.\n /eyeroll",
+                "categories": {
+                    "toxic": 0.47138121724128723,
+                    "severe_toxic": 0.4653891623020172,
+                    "obscene": 0.47196730971336365,
+                    "threat": 0.5159595608711243,
+                    "insult": 0.499674528837204,
+                    "identity_hate": 0.47865456342697144
+                }
+            }
+        ]
+    },
+    {
+        "author_id": "e7d2b7be-345b-4d44-98b3-eff950d0ef84",
+        "user_id": "robertburke",
+        "total_toxic_score": 49.48050284385681,
+        "num_comments": 17,
+        "toxic_score": 2.9106178143445183,
+        "flag": true,
+        "category_scores": {
+            "toxic": 0.4679618828436908,
+            "severe_toxic": 0.47733594915446115,
+            "obscene": 0.4831434751258177,
+            "threat": 0.5059692807057324,
+            "insult": 0.49145723265760083,
+            "identity_hate": 0.4847499535364263
+        },
+        "comments": [
+            {
+                "comment_id": "2574dc41-4bcc-4a79-8bf1-a3b8c8baabdd",
+                "content": "'Our efforts will be to continue to sew the seeds' To the editor, perhaps you meant 'sow the seeds'",
+                "categories": {
+                    "toxic": 0.4758346378803253,
+                    "severe_toxic": 0.4787778854370117,
+                    "obscene": 0.48514336347579956,
+                    "threat": 0.5103273391723633,
+                    "insult": 0.4931906759738922,
+                    "identity_hate": 0.48324936628341675
+                }
+            },
+            {
+                "comment_id": "d087adaf-98d3-438d-b7fe-374d90bd92bf",
+                "content": "He's made Sarah look better each day!",
+                "categories": {
+                    "toxic": 0.4661409854888916,
+                    "severe_toxic": 0.4748111367225647,
+                    "obscene": 0.4760948121547699,
+                    "threat": 0.5050402283668518,
+                    "insult": 0.4865570664405823,
+                    "identity_hate": 0.4947454631328583
+                }
+            },
+            {
+                "comment_id": "f912d90c-c30d-4eeb-bc05-3b99ed588fd4",
+                "content": "The real haters are those that characterize former Reform or Tory supporters as haters.",
+                "categories": {
+                    "toxic": 0.4682272672653198,
+                    "severe_toxic": 0.47940391302108765,
+                    "obscene": 0.4911055862903595,
+                    "threat": 0.5101608037948608,
+                    "insult": 0.48725762963294983,
+                    "identity_hate": 0.4814421236515045
+                }
+            },
+            {
+                "comment_id": "66f5f83e-9840-4978-b3d2-0f7292cb6f32",
+                "content": "Dems ARE the roadrunner....mbeep, mbeep!",
+                "categories": {
+                    "toxic": 0.4684606194496155,
+                    "severe_toxic": 0.4759080111980438,
+                    "obscene": 0.46862873435020447,
+                    "threat": 0.5087878108024597,
+                    "insult": 0.49366939067840576,
+                    "identity_hate": 0.48150771856307983
+                }
+            },
+            {
+                "comment_id": "de06b84e-f188-4a81-be03-ed1545ce2f54",
+                "content": "It's about time.  Sweden has a lot of problems with dishonesty and authoritarian methods in its thoght-controlling government.  They just barred 14000 innocent people, including parliamentarins and academics, from the government Twitter feed, calling them all troublemakers of one kind or another.",
+                "categories": {
+                    "toxic": 0.46321290731430054,
+                    "severe_toxic": 0.4771656394004822,
+                    "obscene": 0.4707767963409424,
+                    "threat": 0.49397554993629456,
+                    "insult": 0.5021468997001648,
+                    "identity_hate": 0.4957953691482544
+                }
+            },
+            {
+                "comment_id": "0edcc380-7d63-4cf2-8161-03bc9df44cd1",
+                "content": "\"\u201cLet all the world know that this economy kills,\u201d the bishop said.\"  If this economy is horrible, why is he encouraging illegals to come here?  Why is he complicit and aiding and abetting in their crime?  The Pope decries the US economy, yet chastises anyone who opposes illegal immigration in the US.  Why does the Pope encourage illegal immigrants to come to the place with such a corruptible economy that kills?",
+                "categories": {
+                    "toxic": 0.47049257159233093,
+                    "severe_toxic": 0.4887559413909912,
+                    "obscene": 0.47870051860809326,
+                    "threat": 0.512939453125,
+                    "insult": 0.49240294098854065,
+                    "identity_hate": 0.46972161531448364
+                }
+            },
+            {
+                "comment_id": "dc9f9314-4601-4b7c-a150-9122763d5036",
+                "content": "Letters to the Editor \nEugene Weekly \n2-9-2012\n\n\"It seems the leftstream media, including the R-G editors, are amazingly ignorant of this (R-G, Jan. 23), and they parrot said ignorance to an unquestioning, dumbed down populace \u2014 swallowed in toto by the same folks who got bamboozled into voting for a clown from Chicago who has saddled each and every one of us with over $12,000 in new debt in three short years of drunken spending.\n\nAs George Boosh always tried to say, \u201cFool me once, shame on you, fool me twice \u2026\u201d\n\nDon Richey, Eugene\n\nEDITOR\u2019S NOTE: According to the Center on Budget and Policy Priorities, the Bush-era tax cuts and two wars account for more than half our nation\u2019s deficits. See http://wkly.ws/16t\"",
+                "categories": {
+                    "toxic": 0.4751227796077728,
+                    "severe_toxic": 0.47863322496414185,
+                    "obscene": 0.48409950733184814,
+                    "threat": 0.5033904314041138,
+                    "insult": 0.49803590774536133,
+                    "identity_hate": 0.4758959412574768
+                }
+            },
+            {
+                "comment_id": "26c57cc8-5d4c-43b9-b594-d0f7183c995c",
+                "content": "This is precisely your problem, not realizing that there is at least as much (if not more) freedom in ANY Spanish region (including Catalonia) as in any Canadian Province or Territory. Remember that ignorance can be fixed, you just have to take a trip to Spain (including Catalonia) and get your facts firsthand. Afterwards we can talk. Meanwhile I find it pointless having a debate with you.",
+                "categories": {
+                    "toxic": 0.463145911693573,
+                    "severe_toxic": 0.48216286301612854,
+                    "obscene": 0.4854113459587097,
+                    "threat": 0.5129321813583374,
+                    "insult": 0.48582723736763,
+                    "identity_hate": 0.4981783926486969
+                }
+            },
+            {
+                "comment_id": "330361f2-f2d5-4ad1-9254-6529ff64e3d5",
+                "content": "Liberals and cash for access ?  How could such a thing be ?",
+                "categories": {
+                    "toxic": 0.466974675655365,
+                    "severe_toxic": 0.4849497377872467,
+                    "obscene": 0.4695051908493042,
+                    "threat": 0.4943847060203552,
+                    "insult": 0.4879153072834015,
+                    "identity_hate": 0.4880536198616028
+                }
+            },
+            {
+                "comment_id": "25b5d016-8cfb-47ad-bfc2-3b845e2b6619",
+                "content": "QuietAndEffective, You need to quote the entire Second Amendment, which says, \"A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed.\"  The entire first half of it places a condition on the right to bear arms.  The right is limited to those who are members of well regulated militias.",
+                "categories": {
+                    "toxic": 0.47231951355934143,
+                    "severe_toxic": 0.47973182797431946,
+                    "obscene": 0.4973011910915375,
+                    "threat": 0.5020139813423157,
+                    "insult": 0.4752681255340576,
+                    "identity_hate": 0.4818190336227417
+                }
+            },
+            {
+                "comment_id": "80e17271-8f77-4d68-8b47-d303c3b9a2a3",
+                "content": "Amen. What's more shameful is that BLM continues to avoid having a civil and productive dialogue on REAL issues, and instead harps on very peripheral situations that do not at all represent the truth, all the while adopting a policy of \"if you are not with us on this then you are against us\". It takes humility to admit you were wrong about something and try to establish a better environment for everyone - take the Andrew Loku situation, which BLM continues to profess as being a \"murder\" by the men and women that keep us safe every day and put their lives on the line. It was a tragic event without a doubt, but all facts point to proper measures taken by the officers on scene (not to mention the fact that two officers had picked him up an hour prior to the incident and drove him home). How it was a racially charged \"murder\", beats me...aggressive DEMANDS don't stimulate fruitful dialogue. We are Canadians, let's act civil and inclusive...exclusion gets us no where",
+                "categories": {
+                    "toxic": 0.480001837015152,
+                    "severe_toxic": 0.4744854271411896,
+                    "obscene": 0.48360273241996765,
+                    "threat": 0.49864500761032104,
+                    "insult": 0.491925448179245,
+                    "identity_hate": 0.48424437642097473
+                }
+            },
+            {
+                "comment_id": "215bedf4-518b-4e1d-831b-8a1be54e73c8",
+                "content": "But, as of yet, NO connection to President Trump.  \nAnd, by the way, the U.S. has done similar tactics trying to affect elections in other countries.  Obama certainly did trying to affect elections in Israel for instance.",
+                "categories": {
+                    "toxic": 0.4647147059440613,
+                    "severe_toxic": 0.4684247076511383,
+                    "obscene": 0.49480563402175903,
+                    "threat": 0.5178775787353516,
+                    "insult": 0.5008105635643005,
+                    "identity_hate": 0.49650588631629944
+                }
+            },
+            {
+                "comment_id": "20bd5efe-cd88-4ced-8c4e-13d1aaf86f55",
+                "content": "Rich people really don't avoid paying taxes ...they are able to steer policy and hire accountants and tax attorneys and are able to manipulate the system to their benefit to a certain degree but they still pay the majority of taxes.",
+                "categories": {
+                    "toxic": 0.45976635813713074,
+                    "severe_toxic": 0.47263577580451965,
+                    "obscene": 0.4897172749042511,
+                    "threat": 0.5060460567474365,
+                    "insult": 0.4864790737628937,
+                    "identity_hate": 0.4775821268558502
+                }
+            },
+            {
+                "comment_id": "dd874258-e284-41e0-9abb-455e3be97cff",
+                "content": "the Catholic SJW's need to get their thinking straight.\n\nThe people who try to immigrate here, both legal and the illegal ones, tend to be the doers/enterprising ones in their country.\n\nNo SJWs ever seem to think about what skimming off the enterprising citizens of those countries does to their country.\n\nHalf thought activism.",
+                "categories": {
+                    "toxic": 0.469526469707489,
+                    "severe_toxic": 0.4778019189834595,
+                    "obscene": 0.4804181456565857,
+                    "threat": 0.49124330282211304,
+                    "insult": 0.4940321743488312,
+                    "identity_hate": 0.4749351143836975
+                }
+            },
+            {
+                "comment_id": "83bb45df-b125-4676-9ac0-62f6621c167a",
+                "content": "More make believe \"whataboutism\" from the alt-right.  This article has nothing to do with Trudeau.  But since you started this nonsense, Trudeau as leader over Trump any time and twice on Sunday.  Canada is fortunate we do not have a Trump as leader.  Only Reform Haters wish ill on Canada enough to cheer-on Trump.",
+                "categories": {
+                    "toxic": 0.45945554971694946,
+                    "severe_toxic": 0.4738144278526306,
+                    "obscene": 0.47865089774131775,
+                    "threat": 0.5110825300216675,
+                    "insult": 0.4927079975605011,
+                    "identity_hate": 0.49131476879119873
+                }
+            },
+            {
+                "comment_id": "1f26b0b7-11e0-46e4-9cec-19d613e2856d",
+                "content": "Actually, most milennials have just left the Church and Burke's brand of fundamentalist is why they left.  Take it from an actual \"milennial.\"  And the little monster priest you are talking about are the ordained version of the Red Pill guys.  Most should have been dismissed from the seminaries because of their immaturity.",
+                "categories": {
+                    "toxic": 0.467861145734787,
+                    "severe_toxic": 0.4723188579082489,
+                    "obscene": 0.4952479600906372,
+                    "threat": 0.509720504283905,
+                    "insult": 0.4937703311443329,
+                    "identity_hate": 0.47402316331863403
+                }
+            },
+            {
+                "comment_id": "09f8bdbf-3e7f-4a59-863a-433fbf8f16b3",
+                "content": "Lee Cataluna has started a Go Fund Me acct to thank the Board of Water Supply for doing their job again. Email he for details.",
+                "categories": {
+                    "toxic": 0.4640940725803375,
+                    "severe_toxic": 0.4749298393726349,
+                    "obscene": 0.4842293858528137,
+                    "threat": 0.5129103064537048,
+                    "insult": 0.49277618527412415,
+                    "identity_hate": 0.4917351305484772
+                }
+            }
+        ]
+    },
+    {
+        "author_id": "45e00dec-1bf6-44ae-80e9-e13b95cf946b",
+        "user_id": "jessicasoto",
+        "total_toxic_score": 46.4061393737793,
+        "num_comments": 16,
+        "toxic_score": 2.900383710861206,
+        "flag": true,
+        "category_scores": {
+            "toxic": 0.4667787719517946,
+            "severe_toxic": 0.47809539549052715,
+            "obscene": 0.47989026829600334,
+            "threat": 0.5043775979429483,
+            "insult": 0.48631872795522213,
+            "identity_hate": 0.4849229082465172
+        },
+        "comments": [
+            {
+                "comment_id": "53cf1f82-0732-41e3-9d07-cc780fbfbaa0",
+                "content": "aa  the usual left wing stupidity never ends. harper was a leader who kept canada going well after the worst world crash in decades bud.. what is repugnant are the terrorist lovers that think we should ignore the threats",
+                "categories": {
+                    "toxic": 0.4635086953639984,
+                    "severe_toxic": 0.4718964099884033,
+                    "obscene": 0.47926655411720276,
+                    "threat": 0.509982168674469,
+                    "insult": 0.49199527502059937,
+                    "identity_hate": 0.4772607684135437
+                }
+            },
+            {
+                "comment_id": "fa12174a-c58d-40b8-8707-e4bb6b952117",
+                "content": "Christy Clark lost the election and the party took a step back.   Obviously, a change of leadership is going to happen - it's natural and inevitable.  I think she had a majority support from her team - most were recruited by her and why wouldn't you want someone who is experienced on both sides of the bench on your team.  The BC Liberals only have a handful that served more 16 years in government. Clark did a lot more in six and half years than all the BC NDP did in a decade of governance.  Moreover, unlike the BC NDP, Clark actually knows that a party can only truly move on when the old leader is no longer hanging around - you can say she was push or whatever, but have a look at all the old leaders that BC NDP have kicking around - Carole James and Adrian Dix - you can't even get rid of them and they want folks to believe that they are somehow different.  Clark's resignation is probably a real loss as you have one less experience member of opposition to hold the BC NDP to account.",
+                "categories": {
+                    "toxic": 0.4720119535923004,
+                    "severe_toxic": 0.48475614190101624,
+                    "obscene": 0.48873212933540344,
+                    "threat": 0.4926423728466034,
+                    "insult": 0.4776093363761902,
+                    "identity_hate": 0.5023975968360901
+                }
+            },
+            {
+                "comment_id": "661b3753-7a31-4515-8425-8b70a938ced3",
+                "content": "It's clear that he'll never enjoy the \"full confidence\" of the American people.  After all, he lost the popular vote by a huge margin - of course his ego has him claiming that he would have won it by a yuuge margin if it hadn't been for the millions of people that voted illegally (and, even with zero supporting information Fox and the rest of his supporters swallowed that without questioning it).\n\nAnd of course he wouldn't admit that Russian hacking had anything to do with the outcome of the election - again his ego won't let him accept that.\n\nIf we add in the actions of the FBI (Comey) immediately before the election it's pretty clear that his win, while legal, was hardly legitimate [he won three states by less than 1% and another by less than 2%]",
+                "categories": {
+                    "toxic": 0.4717264175415039,
+                    "severe_toxic": 0.46787554025650024,
+                    "obscene": 0.48561373353004456,
+                    "threat": 0.5087708830833435,
+                    "insult": 0.4900258183479309,
+                    "identity_hate": 0.4694216549396515
+                }
+            },
+            {
+                "comment_id": "f34be90b-10bd-4ded-953a-99b85c597722",
+                "content": "Thanks for everything coach! Enjoy retirement!",
+                "categories": {
+                    "toxic": 0.4625437259674072,
+                    "severe_toxic": 0.4754472076892853,
+                    "obscene": 0.4762711822986603,
+                    "threat": 0.5077635049819946,
+                    "insult": 0.4854530990123749,
+                    "identity_hate": 0.487161248922348
+                }
+            },
+            {
+                "comment_id": "6bee3e40-6e95-4451-a778-0d5bd85cd0e2",
+                "content": "\"the anti-democratic cabal\"  Needs to be edited.\n\nIt should read \"the anti-Democratic cabal\" to reflect what actually is the problem here.",
+                "categories": {
+                    "toxic": 0.467855304479599,
+                    "severe_toxic": 0.48192065954208374,
+                    "obscene": 0.4715394675731659,
+                    "threat": 0.4986283481121063,
+                    "insult": 0.48984473943710327,
+                    "identity_hate": 0.4847118854522705
+                }
+            },
+            {
+                "comment_id": "2294e213-a558-4299-af4d-00adc7cca975",
+                "content": "Thanks tips. Neither are we so why are we forced to act by way of taxes?",
+                "categories": {
+                    "toxic": 0.4653059244155884,
+                    "severe_toxic": 0.4793561100959778,
+                    "obscene": 0.47381970286369324,
+                    "threat": 0.503505289554596,
+                    "insult": 0.48813769221305847,
+                    "identity_hate": 0.48758068680763245
+                }
+            },
+            {
+                "comment_id": "2451a18a-30bb-4340-9eb9-e00251ac300b",
+                "content": "Why would we want to avoid a Trump? We have our own version of Hillary/Obama and he's a joke.",
+                "categories": {
+                    "toxic": 0.4564398229122162,
+                    "severe_toxic": 0.47935134172439575,
+                    "obscene": 0.48531997203826904,
+                    "threat": 0.5101494789123535,
+                    "insult": 0.48603665828704834,
+                    "identity_hate": 0.49330800771713257
+                }
+            },
+            {
+                "comment_id": "fcd4f06a-b6bc-4b04-bd93-3444417ecfe1",
+                "content": "It is silly but not \"just\" silly... it is also true.  Much like how the word \"populist\" has been hijacked by the extreme/alt-left, divisive is used -by the MSM- mainly to infer \"racism\".  The funny thing is that the actual definition of populism (\"support for the concerns of ordinary people\") is exactly what terrifies the MSM and the hardliners on the Left.",
+                "categories": {
+                    "toxic": 0.4680907130241394,
+                    "severe_toxic": 0.48154929280281067,
+                    "obscene": 0.47496792674064636,
+                    "threat": 0.5101910829544067,
+                    "insult": 0.4909447431564331,
+                    "identity_hate": 0.47464364767074585
+                }
+            },
+            {
+                "comment_id": "3498ee5d-9b11-4168-85f8-93b0cafee6d3",
+                "content": "Authorities for years pulled people over for impaired driving without a breathalyzer. Touch your nose, look at the light, walk the line, say the alphabet backwards. \n\nThis idea that we need a perfect machine and extensive regulations in place to deal with every possibly eventuality is rubbish. There's no evidence marijuana us impairs driving ability, and no reason whatsoever to think that existing impaired driving laws do not capture such impairment if it exists. \n\nDo the majority want laws just because they love regulations and red tape, or do you want laws that are sensible and effect some useful public purpose?",
+                "categories": {
+                    "toxic": 0.4694623053073883,
+                    "severe_toxic": 0.4871101677417755,
+                    "obscene": 0.4778417646884918,
+                    "threat": 0.4929935038089752,
+                    "insult": 0.48485085368156433,
+                    "identity_hate": 0.4873739182949066
+                }
+            },
+            {
+                "comment_id": "d5fa9bc7-5a37-4e58-8614-4c57f26b521a",
+                "content": "The article is about Doug Ford and the Tory leadership. After reading it you conclude that Justin Trudeau was once a drama teacher.  \"Clear Thinker\"  eh??",
+                "categories": {
+                    "toxic": 0.4558999836444855,
+                    "severe_toxic": 0.4791738986968994,
+                    "obscene": 0.48389866948127747,
+                    "threat": 0.5081392526626587,
+                    "insult": 0.4872837960720062,
+                    "identity_hate": 0.48364222049713135
+                }
+            },
+            {
+                "comment_id": "e4b7bf90-76ab-4e37-82c7-a7004a63705d",
+                "content": "$131/day seems more than generous to me, having been sent internationally on a $75/day allowance! While I recognise that cabin staff do not always get to go out to restaurants, and have to pay more expensive room-service rates, asking for $170/day is taking the piss, in my opinion!\n\nThe complaints that the amount has not been updated in years are also disingenuous, as dollar inflation is nowhere near Rand inflation levels, making it unnecessary to update as frequently!",
+                "categories": {
+                    "toxic": 0.48011621832847595,
+                    "severe_toxic": 0.47678202390670776,
+                    "obscene": 0.4841507077217102,
+                    "threat": 0.5057111978530884,
+                    "insult": 0.47925806045532227,
+                    "identity_hate": 0.4764949083328247
+                }
+            },
+            {
+                "comment_id": "b0e54e52-ab2d-4e97-bd71-f30c17642f1d",
+                "content": "It's not your job to fix this.  The harder your sister tries, the more pathetic she will appear.  She's looking to make you upset...don't react at all.  Don't overshare sensitive and personal information with her.",
+                "categories": {
+                    "toxic": 0.46698862314224243,
+                    "severe_toxic": 0.47681906819343567,
+                    "obscene": 0.47838515043258667,
+                    "threat": 0.5052978992462158,
+                    "insult": 0.4794250726699829,
+                    "identity_hate": 0.49273648858070374
+                }
+            },
+            {
+                "comment_id": "81a6a1b8-9fbe-4e15-9451-04e75d39db35",
+                "content": "Dead is dead. Danger is danger; when people who can't deal with it try to do dangerous jobs they put other people at risk. To be fair, modern police are probably better trained and more honest than in any era of the past, but by and large, they're not up to the job. Weapons technology has upped the ante drastically.",
+                "categories": {
+                    "toxic": 0.46228107810020447,
+                    "severe_toxic": 0.478426456451416,
+                    "obscene": 0.48151522874832153,
+                    "threat": 0.49905693531036377,
+                    "insult": 0.4918842613697052,
+                    "identity_hate": 0.48134008049964905
+                }
+            },
+            {
+                "comment_id": "2c10f908-8d50-4122-98a5-e7a53c3d03e0",
+                "content": "Layla, how do you feel about sticking to the subject of the article at hand?",
+                "categories": {
+                    "toxic": 0.4740423560142517,
+                    "severe_toxic": 0.4761448800563812,
+                    "obscene": 0.478202760219574,
+                    "threat": 0.5094629526138306,
+                    "insult": 0.4870903789997101,
+                    "identity_hate": 0.48800694942474365
+                }
+            },
+            {
+                "comment_id": "7ebe2184-798b-4293-bf86-d5011e1e3db9",
+                "content": "Greetings...Ms Calista should stick to writing Neo Con children's books \"Pilgrims Pride\"  and keep an eye on her promiscuous Newt!",
+                "categories": {
+                    "toxic": 0.4685322642326355,
+                    "severe_toxic": 0.4802630543708801,
+                    "obscene": 0.47789546847343445,
+                    "threat": 0.5014443397521973,
+                    "insult": 0.48191407322883606,
+                    "identity_hate": 0.4911647140979767
+                }
+            },
+            {
+                "comment_id": "8831ed94-2ba3-4e8c-8657-d7ddfa7a7d4f",
+                "content": "I think that they actually said open to transparents.",
+                "categories": {
+                    "toxic": 0.4636549651622772,
+                    "severe_toxic": 0.4726540744304657,
+                    "obscene": 0.4808238744735718,
+                    "threat": 0.5063023567199707,
+                    "insult": 0.4893457889556885,
+                    "identity_hate": 0.48152175545692444
+                }
+            }
+        ]
+    },
+    {
+        "author_id": "95563f65-3903-4bd8-bd6f-00af7fef50dd",
+        "user_id": "sherridavis",
+        "total_toxic_score": 46.43136715888977,
+        "num_comments": 16,
+        "toxic_score": 2.9019604474306107,
+        "flag": true,
+        "category_scores": {
+            "toxic": 0.4674441087990999,
+            "severe_toxic": 0.47690572030842304,
+            "obscene": 0.48201562464237213,
+            "threat": 0.5037960894405842,
+            "insult": 0.48628916405141354,
+            "identity_hate": 0.48550974763929844
+        },
+        "comments": [
+            {
+                "comment_id": "d226e7eb-a814-4b4e-82bb-fa6254c98d83",
+                "content": "I do not think that word means what you think it means.",
+                "categories": {
+                    "toxic": 0.4711942970752716,
+                    "severe_toxic": 0.4711938798427582,
+                    "obscene": 0.4816585183143616,
+                    "threat": 0.5148050785064697,
+                    "insult": 0.4828130304813385,
+                    "identity_hate": 0.4887542724609375
+                }
+            },
+            {
+                "comment_id": "c1804f86-f451-4739-8e13-d3c9288a0979",
+                "content": "From the article:    'Nothing in Canada matches Fair Oaks Farms, in Fair Oaks, Ind. The operation has 32,000 cows and produces enough milk to supply the city of Chicago.'\n*****************\nThat's 32,000 cows suffering from health issues such as mastitis, foot problems \n and injection site reactions - painful side effects of bovine growth hormone that are well documented in numerous studies.  \nHow spectacularly obscene.\n\nThe Canadian government has been undermining small farmers for many decades, through Conservative and Liberal governments alike - further proof (as if any was needed) that big business and government are bed buddies.  \n\nBefore long, 99.9% of all farming will be corporate.  Mission accomplished One Percenters!!!",
+                "categories": {
+                    "toxic": 0.4710482358932495,
+                    "severe_toxic": 0.474472314119339,
+                    "obscene": 0.4857783913612366,
+                    "threat": 0.5063509941101074,
+                    "insult": 0.49037042260169983,
+                    "identity_hate": 0.4769323170185089
+                }
+            },
+            {
+                "comment_id": "0e564dda-b9d4-44f7-979d-131f94180b99",
+                "content": "Not to late,  legislator's can still require the audit before approving future funding.  Hopefully they come to their senses and force the city and HART to do the audit.  Find out why costs keep going up.",
+                "categories": {
+                    "toxic": 0.4697992205619812,
+                    "severe_toxic": 0.4863288104534149,
+                    "obscene": 0.49003058671951294,
+                    "threat": 0.5059074759483337,
+                    "insult": 0.48374637961387634,
+                    "identity_hate": 0.49412035942077637
+                }
+            },
+            {
+                "comment_id": "535ce46c-962f-4a23-bb33-e73755e7e4cc",
+                "content": "Yep. Stupid law. One of many.  Encourages armed idiots with an imperfect understanding of the law to use guns, in this case p anywhere a vehicle can conceivably be: Amusement parks, parades, shopping centers, day care, you name, huge potential for injury and death.  Trumpian in scope and capacity for harm.",
+                "categories": {
+                    "toxic": 0.4528266489505768,
+                    "severe_toxic": 0.4830968677997589,
+                    "obscene": 0.4817434251308441,
+                    "threat": 0.49757564067840576,
+                    "insult": 0.4761975407600403,
+                    "identity_hate": 0.4842052459716797
+                }
+            },
+            {
+                "comment_id": "381359be-1b71-4bf3-96c3-e79a4c97f518",
+                "content": "I don't give a damn if our government charged him with making bombs...it's been shown that it happened.",
+                "categories": {
+                    "toxic": 0.4672088623046875,
+                    "severe_toxic": 0.4743809401988983,
+                    "obscene": 0.4770989716053009,
+                    "threat": 0.5080922245979309,
+                    "insult": 0.4924165904521942,
+                    "identity_hate": 0.47313404083251953
+                }
+            },
+            {
+                "comment_id": "f2a77a49-8348-4004-ae85-b7dbd1be669e",
+                "content": "\"The City garnered public support for rail by under-estimating construction costs, over-estimating ridership, virtually ignoring the inevitability of budget-busting operating costs, and outright lying about rail\u2019s likely impact on energy use, visual environment, sound levels, burial sites and, most importantly, traffic congestion.\n\nThe City then pursued a morally corrupt strategy of spending so much money, signing so many contracts, and pouring so much concrete that the project would be past a point of no return by the time the public \u201cgot it.\u201d\"\n\nBlack Coffee: is any of the above not true? Is rail not five years and counting behind schedule? Is rail not $8 billion over budget and counting from the original promise of $2.7 billion for 34 miles made by the Mufster? Does the city not have no plan to fund operations and maintenance, much less a new power  plant? \n\nWho is the propagandist here? Your post makes no sense. Rail is a disaster of epic proportions - there is no denying that.",
+                "categories": {
+                    "toxic": 0.4742658734321594,
+                    "severe_toxic": 0.4830312132835388,
+                    "obscene": 0.48228341341018677,
+                    "threat": 0.5044091939926147,
+                    "insult": 0.48705416917800903,
+                    "identity_hate": 0.4790427088737488
+                }
+            },
+            {
+                "comment_id": "5ddb4e42-6f7e-417a-a16c-fab22a58af41",
+                "content": "Typical socialists trying to convince people black is white.  Rent controls will reduce the supply.  Proven time and time again.  Yet the unwashed living paycheck to paycheck can't figure it out.  In a few years there won't be any place to live and they will have went from a bad situation to a terrible one.",
+                "categories": {
+                    "toxic": 0.46053171157836914,
+                    "severe_toxic": 0.47793588042259216,
+                    "obscene": 0.4769081175327301,
+                    "threat": 0.49439817667007446,
+                    "insult": 0.4907423257827759,
+                    "identity_hate": 0.48224586248397827
+                }
+            },
+            {
+                "comment_id": "2ec21091-9b53-4cfa-b0eb-a1fda67c76b2",
+                "content": "In resolving the legal issues involved in these cases, I hope the focus is kept on the victims first and foremost.  The chances for that are greater with religious orders than it is with dioceses, as bishops have tended to talk out of both sides of their mouths.  In any event, the survivors victims and their families should be and stay vigilant in making sure the Crosier's keep their promises.  May God bless all involved.  Another example of how those who are called to serve the Lord, also damage that calling so fatally.  I am ashamed of my brother religious.",
+                "categories": {
+                    "toxic": 0.48179057240486145,
+                    "severe_toxic": 0.4771243631839752,
+                    "obscene": 0.48404642939567566,
+                    "threat": 0.4964882433414459,
+                    "insult": 0.48845040798187256,
+                    "identity_hate": 0.48426517844200134
+                }
+            },
+            {
+                "comment_id": "7d5f27ee-41c3-4cf5-9164-869458a012b6",
+                "content": "Very sad. Van is one of the hardest working guys around as anyone in the restaurant business will tell you.",
+                "categories": {
+                    "toxic": 0.4573953449726105,
+                    "severe_toxic": 0.4556792378425598,
+                    "obscene": 0.47774261236190796,
+                    "threat": 0.5077532529830933,
+                    "insult": 0.48372259736061096,
+                    "identity_hate": 0.4791942536830902
+                }
+            },
+            {
+                "comment_id": "80b2fcb8-2e1b-4cf9-a47f-9e71f2b575f5",
+                "content": "Wow, more scum on the swamp that needs to be scraped off, just to get to the swamp. Trump keeps adding layers",
+                "categories": {
+                    "toxic": 0.45357537269592285,
+                    "severe_toxic": 0.4881575107574463,
+                    "obscene": 0.47720298171043396,
+                    "threat": 0.49743497371673584,
+                    "insult": 0.48495936393737793,
+                    "identity_hate": 0.5076058506965637
+                }
+            },
+            {
+                "comment_id": "4f1da17c-0aff-4bb4-88e7-5f9a57c19bf1",
+                "content": "Can someone explain why people in rural Canada shouldn't do their part too?",
+                "categories": {
+                    "toxic": 0.46747109293937683,
+                    "severe_toxic": 0.47579070925712585,
+                    "obscene": 0.48059484362602234,
+                    "threat": 0.494500994682312,
+                    "insult": 0.49057620763778687,
+                    "identity_hate": 0.4909542202949524
+                }
+            },
+            {
+                "comment_id": "1e2e23c0-e31f-4482-aac7-8285c181f943",
+                "content": "Oh, he is.",
+                "categories": {
+                    "toxic": 0.4669531583786011,
+                    "severe_toxic": 0.4694543182849884,
+                    "obscene": 0.475681334733963,
+                    "threat": 0.5082142353057861,
+                    "insult": 0.4872475564479828,
+                    "identity_hate": 0.47975969314575195
+                }
+            },
+            {
+                "comment_id": "066df3f4-5e20-46d3-98fd-d0a4576bb8d6",
+                "content": "Poor bubba. So pleased you aren't over-reacting and never use hyperbole.\n\nBTW, it IS 2017. I realize you'd prefer to live in your own dream-world, but the rest of us are quite happy without living our lives in fear. Try it - you may come to like it.",
+                "categories": {
+                    "toxic": 0.46748578548431396,
+                    "severe_toxic": 0.4704876244068146,
+                    "obscene": 0.4825472831726074,
+                    "threat": 0.5122878551483154,
+                    "insult": 0.48523786664009094,
+                    "identity_hate": 0.49361351132392883
+                }
+            },
+            {
+                "comment_id": "a7d030c9-8e1f-4cc1-9697-d7bb390ded23",
+                "content": "When I started work for the State of Oregon in 1998, part of the incoming indoctrination was a presentation about computers.  After discussing the Oregon Public Records Law, we were all told:  \"Do not put anything on the computer that you don't want to see above the fold in the Oregonian.\"  (There were still big thick newspapers back then.) \n\nWhen I was first granted a Security Clearance, part of the three-hour interview and briefing was to point out all the bad things that could happen to my country and to me personally if I revealed Classified information.  \n\nEveryone involved at the DNC (two Congresswomen in charge), Podesta, and Hillary have all had the same briefings or the equivalent.  \n\nArrogance, hubris and stupidity were the main ingredients for this bit of political theater.",
+                "categories": {
+                    "toxic": 0.47330254316329956,
+                    "severe_toxic": 0.47434863448143005,
+                    "obscene": 0.4943663477897644,
+                    "threat": 0.5065227746963501,
+                    "insult": 0.49224406480789185,
+                    "identity_hate": 0.48543399572372437
+                }
+            },
+            {
+                "comment_id": "bea3a1fa-a0d0-4aa8-a65f-6677f159fd5f",
+                "content": "www.wikileaks.org is the best website of my life. GROW UP!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! Words matter. Sentences matter. Details matter. J for Justice. Gracias. Thank You. ARI for ARI and ARIGATO",
+                "categories": {
+                    "toxic": 0.4743514358997345,
+                    "severe_toxic": 0.4873367249965668,
+                    "obscene": 0.46306082606315613,
+                    "threat": 0.5085811614990234,
+                    "insult": 0.48148980736732483,
+                    "identity_hate": 0.4847429096698761
+                }
+            },
+            {
+                "comment_id": "cf24d60c-43bd-4493-abc2-1a94435cd92c",
+                "content": "Cleaning house never gets done, the way Eugene's government is set-up.  This charter amendment would change that.",
+                "categories": {
+                    "toxic": 0.4699055850505829,
+                    "severe_toxic": 0.4816724956035614,
+                    "obscene": 0.5015059113502502,
+                    "threat": 0.497415155172348,
+                    "insult": 0.4833582937717438,
+                    "identity_hate": 0.48415154218673706
+                }
+            }
+        ]
+    },
+    {
+        "author_id": "840aee84-ae91-4adb-8b4f-4237df6cb815",
+        "user_id": "morganwhite",
+        "total_toxic_score": 46.427334785461426,
+        "num_comments": 16,
+        "toxic_score": 2.901708424091339,
+        "flag": true,
+        "category_scores": {
+            "toxic": 0.46397473104298115,
+            "severe_toxic": 0.4773609861731529,
+            "obscene": 0.4849772397428751,
+            "threat": 0.5050227418541908,
+            "insult": 0.48658062145113945,
+            "identity_hate": 0.4837920870631933
+        },
+        "comments": [
+            {
+                "comment_id": "a5f023b5-3352-409e-b913-a163fe5f7910",
+                "content": "Ah, there's the problem.\nEveryone knows;  Guinness is GOOD for you!",
+                "categories": {
+                    "toxic": 0.464732825756073,
+                    "severe_toxic": 0.4734993278980255,
+                    "obscene": 0.47299009561538696,
+                    "threat": 0.516204297542572,
+                    "insult": 0.487348735332489,
+                    "identity_hate": 0.47483187913894653
+                }
+            },
+            {
+                "comment_id": "b5aebcb7-5c6a-4dd4-9bc7-c781f82ae3b4",
+                "content": "What an embarrassment to the State of Oregon.\nTime for term limits!",
+                "categories": {
+                    "toxic": 0.4635300934314728,
+                    "severe_toxic": 0.4748302698135376,
+                    "obscene": 0.48385319113731384,
+                    "threat": 0.5017770528793335,
+                    "insult": 0.48283520340919495,
+                    "identity_hate": 0.48381203413009644
+                }
+            },
+            {
+                "comment_id": "2192d73a-fe27-40fc-87e4-ac15710d9c90",
+                "content": "Some students, with more severe disabilities, are more set apart. Those with significant cognitive disabilities might be in a life skills class (although they still take electives and lunch with other students), and those with severe emotional disturbances or who have proven to be repeatedly violent may be put at Whaley or other specialized programs. But federal law requires the least restrictive environment, and for most kids who have relatively minor disabilities, they are mainstreamed into a more inclusive environment. Which is great for many but not every student. To move a student to a more restrictive environment is a very cumbersome process, particularly if the parent objects. \n\nOther districts use more self contained classes but ASD is big on inclusion. For many that's good, but it isn't beneficial to everyone who has a disability or sometimes even other students. It just depends.",
+                "categories": {
+                    "toxic": 0.4790849983692169,
+                    "severe_toxic": 0.4792477488517761,
+                    "obscene": 0.4968205392360687,
+                    "threat": 0.4882197976112366,
+                    "insult": 0.4738074839115143,
+                    "identity_hate": 0.4929301142692566
+                }
+            },
+            {
+                "comment_id": "54bdf536-0a10-4f1c-ba83-4cf61977e572",
+                "content": "All Catholics are Cafeteria Catholics -- well, Tridentinus says he isn't, but that is open to debate. Liberal Catholics are prepared to admit it; conservative Catholics generally aren't.",
+                "categories": {
+                    "toxic": 0.4690555930137634,
+                    "severe_toxic": 0.482994943857193,
+                    "obscene": 0.49684643745422363,
+                    "threat": 0.5033988356590271,
+                    "insult": 0.4879598617553711,
+                    "identity_hate": 0.48075491189956665
+                }
+            },
+            {
+                "comment_id": "205547c1-cff2-4af8-9785-779f76a9dc98",
+                "content": "She/he can train Harvard students how to be traitors to their country. Obama must be so proud.",
+                "categories": {
+                    "toxic": 0.45165902376174927,
+                    "severe_toxic": 0.47651851177215576,
+                    "obscene": 0.494592547416687,
+                    "threat": 0.5027478933334351,
+                    "insult": 0.49101367592811584,
+                    "identity_hate": 0.501854658126831
+                }
+            },
+            {
+                "comment_id": "960abbc1-682b-40cb-b5b3-638c80a6202f",
+                "content": "Read the study conducted by the government, revealed only via an access to information request.  Mass immigration is failing in jobs and housing, among a myriad of other areas, and thereby failing Canadians.",
+                "categories": {
+                    "toxic": 0.4599604606628418,
+                    "severe_toxic": 0.4816286563873291,
+                    "obscene": 0.48349815607070923,
+                    "threat": 0.5086976885795593,
+                    "insult": 0.4828569293022156,
+                    "identity_hate": 0.49168458580970764
+                }
+            },
+            {
+                "comment_id": "697a9eb7-30f7-4de3-9737-18dc44931839",
+                "content": "Current Federal Immigration Law prohibits immigration of any person who intends to practice polygamy, and permits a President in his sole discretion to prohibit any person or class of persons from entry...it was used by President Carter, in fact.  \n\nIf Trump's \"notion\" meets current Federal by prohibiting a class composed of recent Syrian emigres it would be legal.",
+                "categories": {
+                    "toxic": 0.46224719285964966,
+                    "severe_toxic": 0.4815705418586731,
+                    "obscene": 0.5025778412818909,
+                    "threat": 0.5107895135879517,
+                    "insult": 0.47372907400131226,
+                    "identity_hate": 0.4867597818374634
+                }
+            },
+            {
+                "comment_id": "59a1d06e-128e-435a-9458-def16837699b",
+                "content": "How much does it cost to prosecute a hundred radical people with no solutions, just lots of anger towards those that don't share the wealth with the protestors and us. If our wealth was distributed equitably, those radical anti growth and anti export fools might not be so angry. The problem is too much tax, not enough freedom and opportunity  created that angry crowd left to fend for themselves in dead end jobs because of neo liberalism left the angry anti-pipeline folks with little other than the short end of the stick. Mulroney sold out our manufacturing sector and burdened us with GST.  The answer is simple, American oil has been against Canadian pipelines and funds groups like those protesting in Ottawa. It has nothing to do with not enough carbon tax. Protestors should be protesting the GST, the real problem facing ordinary folks. If the GST is so great, why doesn't the USA have one? Because it is grossly unfair. After tax income is ours, not theirs to poach. GST kills jobs here.",
+                "categories": {
+                    "toxic": 0.46269863843917847,
+                    "severe_toxic": 0.4923217296600342,
+                    "obscene": 0.47446802258491516,
+                    "threat": 0.4959455728530884,
+                    "insult": 0.4920599162578583,
+                    "identity_hate": 0.48497721552848816
+                }
+            },
+            {
+                "comment_id": "1f338de9-7502-4674-be90-f58b7f749e6d",
+                "content": "Not surprising; the \"Yes on Prop 8\" folk ran a terrible campaign, full of lies, half-truths and misinformation.  Their FB page's Admin was fond of insults and nasty comments towards people seeking additional information.  The radio/tv/print ads were misleading at best.  And they distilled all of Prop 8 down to one issue - their bottom line, while forgetting that the revised Muni ordinance also greatly increases the availability of accessible cabs for people with disabilities, increases penalties for unlicensed drivers, and requires permit owners to operate a minimum number of hours per year.\n\nAlso:  Yellow Cab and Checker are currently charging below the max threshold they're allowed to by ordinance ($3/ flag, $3/mile). The Yes on Prop 8 Admin  (who is probably closely connected to the ATPOA) made some veiled threats that both dispatch companies would increase to the max allowed fare if their repeal efforts failed.  It works out to 10-20% increase if they do so.",
+                "categories": {
+                    "toxic": 0.47085559368133545,
+                    "severe_toxic": 0.49223801493644714,
+                    "obscene": 0.4757556915283203,
+                    "threat": 0.4937278628349304,
+                    "insult": 0.48630863428115845,
+                    "identity_hate": 0.47604894638061523
+                }
+            },
+            {
+                "comment_id": "95e76472-84fd-4b03-b764-5f94b055e4ec",
+                "content": "Horse love is an incurable affliction.  It primarily afflicts women.  When diagnosed, a large \"H\" should be tattooed on the girl's forehead to warn prospective grooms.\n\nIt is a proven fact that one woman and one horse can spend more money than any two people can make at any legal occupation.   At least if they want to eat anything besides top ramen or  macaroni and cheese.",
+                "categories": {
+                    "toxic": 0.4649268388748169,
+                    "severe_toxic": 0.4861111342906952,
+                    "obscene": 0.47851961851119995,
+                    "threat": 0.49886295199394226,
+                    "insult": 0.4907735586166382,
+                    "identity_hate": 0.48927852511405945
+                }
+            },
+            {
+                "comment_id": "22581b75-82f5-4754-bc2c-c979a9c444dd",
+                "content": "Nothing to see here folks, just a display of greed driven urban development.",
+                "categories": {
+                    "toxic": 0.45741865038871765,
+                    "severe_toxic": 0.46538281440734863,
+                    "obscene": 0.4779610335826874,
+                    "threat": 0.49525830149650574,
+                    "insult": 0.48525863885879517,
+                    "identity_hate": 0.4778894782066345
+                }
+            },
+            {
+                "comment_id": "d6e1ce77-33e1-4ded-854e-8a97d98d9e92",
+                "content": "I loves me my religious satire",
+                "categories": {
+                    "toxic": 0.46430090069770813,
+                    "severe_toxic": 0.4652361571788788,
+                    "obscene": 0.4726753830909729,
+                    "threat": 0.5062628388404846,
+                    "insult": 0.48396244645118713,
+                    "identity_hate": 0.47486403584480286
+                }
+            },
+            {
+                "comment_id": "6aee376b-1efa-43b4-bf36-85321cc56596",
+                "content": "You might want to consider actually reading web sites before you link to them, because this one actually disproves your point.  As the site's name suggests, every NFL team cheats, and the Patriots are \"below average\" when it comes to cheating.  Last year's champions rank at the top of the list.",
+                "categories": {
+                    "toxic": 0.46626949310302734,
+                    "severe_toxic": 0.4731000065803528,
+                    "obscene": 0.4897471070289612,
+                    "threat": 0.5237985253334045,
+                    "insult": 0.49896377325057983,
+                    "identity_hate": 0.48595714569091797
+                }
+            },
+            {
+                "comment_id": "541e28f3-0392-460f-beb0-008394946d2e",
+                "content": "So, maintaining a list of known Trump supporters seems frowned upon by the G&M moderators.\n\nThat's interesting.\n\nNot sure what their issue would be in maintaining a public list of those still supporting a pu**y grabbing, tax dodging, KKK endorsed US President-elect given the more flagrant violations of posting guidelines that are not being enforced here.\n\n\"Our goal at The Globe and Mail is to foster intelligent, insightful and entertaining conversations.\"",
+                "categories": {
+                    "toxic": 0.46938613057136536,
+                    "severe_toxic": 0.4744543433189392,
+                    "obscene": 0.49416422843933105,
+                    "threat": 0.508453905582428,
+                    "insult": 0.4890521466732025,
+                    "identity_hate": 0.4796302914619446
+                }
+            },
+            {
+                "comment_id": "a92c8d51-c149-4291-bded-7078f48e56cd",
+                "content": "Monte,\n\nWhat was written into the Bill of Rights and how it is being interpreted by the advocates of \"social justice\" are worlds apart. You mentioned slavery and Jim Crow as if Conservatives wanted to re-impose them. That is pure rubbish. The most stalwart defenders of slavery through American history were Democrats, who later wrote Jim Crow laws to preserve what they could of it. They also fought to prevent passage of the 1964 Civil Rights Act. The claims you echoed are the classic Stalinist/Alinskyite (yes, I said Stalinist) tactic of accusing your opponent of doing what you are doing while claiming to be doing the opposite to mask what you are doing. Those people who attacked Trump supporters and protested against him during the election campaign were all paid by rich Liberals, who are today funding the \"not my president\" protests in different cities. So I wonder if you have any idea how truly evil the Liberalism you defend has become.",
+                "categories": {
+                    "toxic": 0.4617064595222473,
+                    "severe_toxic": 0.4704797565937042,
+                    "obscene": 0.48079681396484375,
+                    "threat": 0.5098199248313904,
+                    "insult": 0.49283304810523987,
+                    "identity_hate": 0.4790573716163635
+                }
+            },
+            {
+                "comment_id": "fec12487-0d06-447d-9dbd-134416983f41",
+                "content": "Don't listen to the naysayers, Joe.\n\nYou're doin' God's work, fella!",
+                "categories": {
+                    "toxic": 0.4557628035545349,
+                    "severe_toxic": 0.46816182136535645,
+                    "obscene": 0.4843691289424896,
+                    "threat": 0.5163989067077637,
+                    "insult": 0.48652681708335876,
+                    "identity_hate": 0.48034241795539856
+                }
+            }
+        ]
+    }
+]
